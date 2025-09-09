@@ -1,2 +1,1 @@
-# beginning--bioinformatics
-beginning bioinformatics course code
+# Akshat Parikh + 1002202253 + BIOL5340-001
