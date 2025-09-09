@@ -1,7 +1,3 @@
-Here’s a polished, chronological version of your **AI Use Log**. I’ve kept your content intact but structured each entry under the same five headings so it looks uniform, professional, and easy to follow.
-
----
-
 # AI Use Log – Beginning Bioinformatics (Part 3)
 
 I wrote and tested all final code myself. AI was used as a support tool for scaffolding and reminders. Below are the specific instances, organized in order of use.
@@ -71,7 +67,3 @@ I wrote and tested all final code myself. AI was used as a support tool for scaf
 ### Closing Note
 
 AI was used as a support tool for scaffolding and reminders. I rewrote and cleaned final code to fit assignment requirements, and I confirmed correctness through small tests and sample data before committing.
-
----
-
-Would you like me to **condense this into a one-page appendix format** (more formal, less narrative), or keep this detailed log style for submission?
